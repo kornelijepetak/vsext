@@ -13,3 +13,7 @@ The Portal for all my Visual Studio extension repositories
 
 #### [Vizz](https://github.com/kornelijepetak/vsext-vizz)
 - Visualizer for the `List<T>` that shows a chart with values
+
+#### [NumberTooLong](https://github.com/kornelijepetak/vsext-numbertoolong)
+- A C# analyzer and a codefix that inserts decimal separators in lengthy numbers.
+
